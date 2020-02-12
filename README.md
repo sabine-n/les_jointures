@@ -10,7 +10,7 @@ Exercices à résoudre:
 
 3. Afficher le nom des clients ayant emprunté « ALABAMA DEVIL ». 
 
-4. Afficher les films loués par des personnes habitant à « Woodridge ». Vérifier s’il y a des films qui n’ont jamais été emprunté. 
+4. Afficher les films loués par des personnes habitant à « Woodridge ». Vérifier s’il y a des films qui n’ont jamais été empruntés. 
 
 5. Quel sont les 10 films dont la durée d’emprunt a été la plus courte ? 
 
